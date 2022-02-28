@@ -1,0 +1,19 @@
+segment_sources:
+  P1EF04220:
+    type: origin_type
+    relation: translation
+    language: en
+  P4070909D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  63a139ef02be481da63cecebf675a483:
+    P1EF04220: fe541a7606204aa180018ac66175e824
+    P4070909D: 4fe0765eaad6435dafbd95e863fd713d
+  dec1c75b2431411d9dba76934fdfee31:
+    P1EF04220: da73fc710f4b427d9c72c698dfc5b796
+    P4070909D: efcea39a119044879416f9f25e4ea3ef
+  3c889d1a0f664e70bb54cd9d5ae715e5:
+    P1EF04220: d04956728be343568273d60559345fee
+    P4070909D: 0eb4c5b19f73435187cb8561417f993f
